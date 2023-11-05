@@ -1,0 +1,1 @@
+export const SET_GUEST_ID = 'SET_GUEST_ID';
